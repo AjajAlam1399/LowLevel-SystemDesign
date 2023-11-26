@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Observer_Design_Pattern&apos;&#x0D;&#x0A;- Original project: &apos;Observer_Design_Pattern&apos;&#x0D;&#x0A;- Original element: &apos;ObserverPattern.Observeable.StockeObserver.java&apos;" description="Delete element" element1="/src&lt;ObserverPattern.Observeable{StockeObserver.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1699682573085" subPackages="false" version="1.0"/>
+</session>
