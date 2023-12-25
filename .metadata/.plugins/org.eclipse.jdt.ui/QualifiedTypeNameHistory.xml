@@ -8,8 +8,6 @@
     <fullyQualifiedTypeName name="withStrategyPattern.stratergy.NormalDriveStratergy"/>
     <fullyQualifiedTypeName name="withStrategyPattern.SportsVehicle"/>
     <fullyQualifiedTypeName name="withStrategyPattern.GoodVehicle"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ObserverPattern.Observer.NotificationAlertObserver"/>
     <fullyQualifiedTypeName name="ObserverPattern.Observer.EmailNotificationImp"/>
@@ -17,4 +15,17 @@
     <fullyQualifiedTypeName name="ObserverPattern.Observeable.IphoneObservableImp"/>
     <fullyQualifiedTypeName name="ObserverPattern.Observer.MobileNotificationImp"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.parkinglot.modle.account.Contact"/>
+    <fullyQualifiedTypeName name="com.parkinglot.modle.account.common.Adress"/>
+    <fullyQualifiedTypeName name="com.parkinglot.modle.account.PersonalInfo"/>
+    <fullyQualifiedTypeName name="com.parkinglot.modle.account.Account"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="com.parkinglot.modle.vehicle.Vehicle"/>
+    <fullyQualifiedTypeName name="com.parkinglot.modle.vehicle.VehicleType"/>
+    <fullyQualifiedTypeName name="com.strategy.design.pattern.Method"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
