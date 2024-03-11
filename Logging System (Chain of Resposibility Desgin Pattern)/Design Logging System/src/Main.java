@@ -10,6 +10,6 @@ public class Main {
         LogProcessor logobj=new InfoLogProcessor(new DebugLogProcessor(new ErrorLogProcessor(null)));
         logobj.log(LogProcessor.ERROR,"Exception happend");
         logobj.log(LogProcessor.DEBUG,"need to debug this");
-        logobj.log(LogProcessor.INFO,"just for info");
+        logobj.log(4,"just for info");
     }
 }
